@@ -3,7 +3,7 @@ library(ggplot2)
 library(lubridate)
 
 
-# a script that utilizes campbell sci's R function to import TOA5 files from: https://www.campbellsci.eu/blog/tool-to-import-data-to-r
+# a script that utilizes a campbell sci's R function to import TOA5 files from: https://www.campbellsci.eu/blog/tool-to-import-data-to-r
 path = 'H:/FLNRO/Russell Creek/Data/'
 setwd(path)
 
